@@ -2,7 +2,7 @@ from distutils.core import setup
 import os
 
 setup(
-    name = "django-shell-plus",
+    name = "django-shellng",
     version = "0.1",
     description = 'Improved shell for Django',
     long_description = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
