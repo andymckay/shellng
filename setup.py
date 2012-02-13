@@ -3,7 +3,7 @@ import os
 
 setup(
     name = "django-shellng",
-    version = "0.1",
+    version = "0.1.1",
     description = 'Improved shell for Django',
     long_description = open(os.path.join(os.path.dirname(__file__), 'README.rst')).read(),
     url = "https://github.com/andymckay/shellng",
